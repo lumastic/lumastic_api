@@ -1,5 +1,5 @@
 module.exports = {
-    apiKey: "AIzaSyDFxzoj7ZcayR3Vb527_rRIjU4MSnRHYXE",
+    apiKey: "",
     authDomain: "lumastic-cfeed.firebaseapp.com",
     databaseURL: "https://lumastic-cfeed.firebaseio.com",
     projectId: "lumastic-cfeed",
